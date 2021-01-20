@@ -1,0 +1,226 @@
+[
+    {
+        "_id": "59d9f2a12e9cc9f785861b71",
+        "eventType": "Heartbeat",
+        "dateTime": "2018-01-25T11:10:00.000Z",
+        "instructor": "Freddie M.",
+        "duration": 50,
+        "bookable": true
+    },
+    {
+        "_id": "59d9f2c82e9cc9f785861cf9",
+        "eventType": "Heartbeat",
+        "dateTime": "2018-01-25T17:00:00.000Z",
+        "instructor": "Freddie M.",
+        "duration": 50,
+        "bookable": true
+    },
+    {
+        "_id": "59d9f30e2e9cc9f785862009",
+        "eventType": "Heartbeat",
+        "dateTime": "2018-01-26T11:10:00.000Z",
+        "instructor": "Freddie M.",
+        "duration": 50,
+        "bookable": true
+    },
+    {
+        "_id": "59d9f32f2e9cc9f785862191",
+        "eventType": "Fatburn",
+        "dateTime": "2018-01-26T06:00:00.000Z",
+        "instructor": "Ringo S.",
+        "duration": 50,
+        "bookable": true
+    },
+    {
+        "_id": "59d9f3552e9cc9f785862319",
+        "eventType": "Heartbeat",
+        "dateTime": "2018-01-27T09:00:00.000Z",
+        "instructor": "Freddie M.",
+        "duration": 50,
+        "bookable": true
+    },
+    {
+        "_id": "59d9f3762e9cc9f7858624a1",
+        "eventType": "Fatburn",
+        "dateTime": "2018-01-28T09:00:00.000Z",
+        "instructor": "Ringo S.",
+        "duration": 50,
+        "bookable": true
+    },
+    {
+        "_id": "5a296e84a2ac570c13ec04db",
+        "eventType": "Heartbeat",
+        "dateTime": "2018-01-27T11:00:00.000Z",
+        "instructor": "Leticia",
+        "duration": 50,
+        "bookable": true
+    },
+    {
+        "_id": "5a296f6da2ac570c13ec0566",
+        "eventType": "Heartbeat",
+        "dateTime": "2018-01-27T10:00:00.000Z",
+        "instructor": "Roger W.",
+        "duration": 50,
+        "bookable": true
+    },
+    {
+        "_id": "5a296ff9a2ac570c13ec05f5",
+        "eventType": "Fatburn",
+        "dateTime": "2018-01-28T16:00:00.000Z",
+        "instructor": "Charlie W.",
+        "duration": 90,
+        "bookable": true
+    },
+    {
+        "_id": "5a29730fa2ac570c13ec0a1f",
+        "eventType": "Heartbeat",
+        "dateTime": "2018-01-31T19:00:00.000Z",
+        "instructor": "Freddie M. B.",
+        "duration": 50,
+        "bookable": true
+    },
+    {
+        "_id": "5a297356a2ac570c13ec0b89",
+        "eventType": "Heartbeat",
+        "dateTime": "2018-01-26T17:00:00.000Z",
+        "instructor": "Roger W.",
+        "duration": 50,
+        "bookable": true
+    },
+    {
+        "_id": "5a297387a2ac570c13ec0d02",
+        "eventType": "Heartbeat",
+        "dateTime": "2018-01-28T11:00:00.000Z",
+        "instructor": "Ron W.",
+        "duration": 50,
+        "bookable": false
+    },
+    {
+        "_id": "5a2e79f846b763f46412e871",
+        "eventType": "Fatburn",
+        "dateTime": "2018-01-26T16:00:00.000Z",
+        "instructor": "Mick J.",
+        "duration": 50,
+        "bookable": true
+    },
+    {
+        "_id": "5a3ee1d98cdb7de53507d60a",
+        "eventType": "Heartbeat",
+        "dateTime": "2018-01-28T10:00:00.000Z",
+        "instructor": "Robert P.",
+        "duration": 50,
+        "bookable": true
+    },
+    {
+        "_id": "5a42892b963975171c199a03",
+        "eventType": "Heartbeat",
+        "dateTime": "2018-01-31T17:00:00.000Z",
+        "instructor": "Robert P.",
+        "duration": 50,
+        "bookable": true
+    },
+    {
+        "_id": "5a54e695fc4beaef5e5c2c6b",
+        "eventType": "Fatburn",
+        "dateTime": "2018-01-30T11:10:00.000Z",
+        "instructor": "Ringo S.",
+        "duration": 50,
+        "bookable": true
+    },
+    {
+        "_id": "5a58fae259556d4d627c98cb",
+        "eventType": "Fatburn",
+        "dateTime": "2018-01-29T11:10:00.000Z",
+        "instructor": "Ringo S.",
+        "duration": 50,
+        "bookable": true
+    },
+    {
+        "_id": "5a58fb9b59556d4d627c9a3a",
+        "eventType": "Heartbeat",
+        "dateTime": "2018-01-29T17:00:00.000Z",
+        "instructor": "Keith R.",
+        "duration": 50,
+        "bookable": false
+    },
+    {
+        "_id": "5a58fbc059556d4d627c9ba6",
+        "eventType": "Fatburn",
+        "dateTime": "2018-01-29T18:00:00.000Z",
+        "instructor": "Charlie W.",
+        "duration": 50,
+        "bookable": true
+    },
+    {
+        "_id": "5a58fc0b59556d4d627c9d12",
+        "eventType": "Heartbeat",
+        "dateTime": "2018-01-29T19:00:00.000Z",
+        "instructor": "Freddie M.",
+        "duration": 50,
+        "bookable": true
+    },
+    {
+        "_id": "5a58fc3559556d4d627c9e7e",
+        "eventType": "Heartbeat",
+        "dateTime": "2018-01-30T05:30:00.000Z",
+        "instructor": "Jim M.",
+        "duration": 50,
+        "bookable": true
+    },
+    {
+        "_id": "5a58fc5759556d4d627c9fea",
+        "eventType": "Heartbeat",
+        "dateTime": "2018-01-30T17:00:00.000Z",
+        "instructor": "Freddie M.",
+        "duration": 50,
+        "bookable": true
+    },
+    {
+        "_id": "5a58fcdd59556d4d627ca2a7",
+        "eventType": "Fatburn",
+        "dateTime": "2018-01-30T18:00:00.000Z",
+        "instructor": "Ringo S.",
+        "duration": 50,
+        "bookable": false
+    },
+    {
+        "_id": "5a58fd1c59556d4d627ca420",
+        "eventType": "Heartbeat",
+        "dateTime": "2018-01-30T19:00:00.000Z",
+        "instructor": "Keith R.",
+        "duration": 50,
+        "bookable": true
+    },
+    {
+        "_id": "5a58fd4259556d4d627ca58c",
+        "eventType": "Fatburn",
+        "dateTime": "2018-01-31T06:00:00.000Z",
+        "instructor": "Charlie W.",
+        "duration": 50,
+        "bookable": true
+    },
+    {
+        "_id": "5a58fd7359556d4d627ca6f8",
+        "eventType": "Heartbeat",
+        "dateTime": "2018-01-31T11:10:00.000Z",
+        "instructor": "Ron W.",
+        "duration": 50,
+        "bookable": true
+    },
+    {
+        "_id": "5a58fd9e59556d4d627ca864",
+        "eventType": "Fatburn",
+        "dateTime": "2018-01-31T18:00:00.000Z",
+        "instructor": "Mick J.",
+        "duration": 50,
+        "bookable": true
+    },
+    {
+        "_id": "59d9f2ec2e9cc9f785861e81",
+        "eventType": "Hearbeat",
+        "dateTime": "2018-01-25T18:00:00.000Z",
+        "instructor": "Keith R.",
+        "duration": 50,
+        "bookable": true
+    }
+]
